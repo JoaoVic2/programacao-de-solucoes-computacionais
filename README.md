@@ -1,6 +1,6 @@
 # Repositório de Atividades da Faculdade de Programação
 
-Este repositório contém as atividades e projetos realizados durante o curso de programação na faculdade. Aqui você encontrará uma coleção de códigos-fonte, relatórios e outros recursos relacionados às disciplinas do curso.
+Este repositório contém as atividades realizadas durante o curso de programação na faculdade. Aqui você encontrará uma coleção de códigos-fonte.
 
 ## Estrutura do Repositório
 
